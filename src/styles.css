@@ -3,7 +3,7 @@ body {
 }
 
 input {
-  border-radius: 16px;
+  border-radius: 16px !important;
   border: none;
   padding: 6px 16px;
   outline: none;
